@@ -8,5 +8,5 @@ mysql 在tjj_project/private_settings 你去更换mysql地址
 
 python manage.py runserver
 
-admin 账号 tjjadmin
-admin 密码 tjj123456
+admin 账号 tjj
+admin 密码 123456
